@@ -12,7 +12,7 @@ lcd = I2cLcd(i2c, 0x27, 2,16)
 
 # WiFi Credentials
 WIFI_SSID = "vivo T2x 5G"
-WIFI_PASS = "ROHIT@7898"
+WIFI_PASS = "12345678"
 
 # Blynk Auth Token
 BLYNK_AUTH = "PiE7CYRuLPgVNKiVj2rtD7B9zGmTn_9n"
