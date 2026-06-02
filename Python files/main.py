@@ -15,7 +15,7 @@ WIFI_SSID = "vivo T2x 5G"
 WIFI_PASS = "ROHIT@7898"
 
 # Blynk Auth Token
-BLYNK_AUTH = "PiE7CYRuLPgVNKiVj2BkD7B7yGmTn_9n"
+BLYNK_AUTH = "PiE7CYRuLPgVNKiVj2rtD7B9zGmTn_9n"
 
 # Connect WiFi
 wifi = network.WLAN(network.STA_IF)
