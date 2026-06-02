@@ -4,7 +4,7 @@ from datetime import datetime
 
 ser = serial.Serial('COM4', 115200)   # Change COM port
 
-with open(r'D:\Final_year_Project\Dataset\sensor_data.csv', 'a', newline='') as file:
+with open(r'D:\Smart_irrigation_system\Dataset\sensor_data.csv', 'a', newline='') as file:
     writer = csv.writer(file)
 
     # Header (only first time)
