@@ -11,11 +11,11 @@ i2c = SoftI2C(scl=Pin(22), sda = Pin(21))
 lcd = I2cLcd(i2c, 0x27, 2,16)
 
 # WiFi Credentials
-WIFI_SSID = "GalaxyM55"
+WIFI_SSID = "vivo T2x 5G"
 WIFI_PASS = "12345678"
 
 # Blynk Auth Token
-BLYNK_AUTH = "PiE7CYRuLPgVNKiVj2BkD7B7yGmTn_9n"
+BLYNK_AUTH = "PiE4CYRuLPgVNKiVj2BkD7B7yHiTn_8n"
 
 # Connect WiFi
 wifi = network.WLAN(network.STA_IF)
@@ -89,7 +89,7 @@ while True:
         
         
         # Send data to spreadsheet
-        url = "https://script.google.com/macros/s/AKfycbwNKdx8CWydvWqR33dxl9PQ96BkUR86gc7Z40FbP3QmUMQKNMR3wLZnNAjcnZH772o91Q/exec?soil={}&temp={}&hum={}&rainfall={}&pumpstatus={}".format(
+        url = "https://script.google.com/macros/s/AKfycbwNKdx8CWydvWqR33dxl9WY87BkUR86gc5Z80FbR3QmUMQKLCR3wLZnNAjcnZH474o91Q/exec?soil={}&temp={}&hum={}&rainfall={}&pumpstatus={}".format(
     soil_percent,
     temperature,
     humidity,
