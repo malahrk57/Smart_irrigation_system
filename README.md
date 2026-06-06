@@ -242,9 +242,9 @@ Run `ML_Model/model_training.py` on Google Colab with your dataset, then run `th
 
 | Field | Details |
 |-------|---------|
-| Degree | M.Sc. Physics (2024–26) |
 | Author | Rohit Kumar Malah (Y24273022) |
 | Supervisor | Prof. Ashish Verma |
+| Degree | M.Sc. Physics (2024–26) |
 | Department | Department of Physics |
 | University | Dr. Hari Singh Gour Vishwavidyalaya, Sagar (M.P.) — A Central University |
 
@@ -263,10 +263,10 @@ Key references used in this project:
 
 ## 📬 Contact
 
-**Rohit Kumar Malah**\\
-M.Sc. Physics Student\\
-Dr. Hari Singh Gour Vishwavidyalaya, Sagar (M.P.)\\
-GitHub: [@malahrk57](https://github.com/malahrk57)
+**Rohit Kumar Malah**<br>
+M.Sc. Physics Student<br>
+Dr. Hari Singh Gour Vishwavidyalaya, Sagar (M.P.)<br>
+GitHub: [@malahrk57](https://github.com/malahrk57)<br>
 
 ---
 
