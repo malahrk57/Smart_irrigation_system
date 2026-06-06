@@ -5,7 +5,6 @@
 ![Web Dashboard](Images/web%201.png)
 ![Mobile Dashboard](Images/Mobile%201.jpeg)
 ![Local Dashboard](Images/local%202.jpeg)
-![Working Prototype](Images/Final%20connections.jpeg)
 ![Google Sheet](Images/Sheet%20Updating.png)
 
 ---
@@ -264,9 +263,9 @@ Key references used in this project:
 
 ## 📬 Contact
 
-**Rohit Kumar Malah**
-M.Sc. Physics Student
-Dr. Hari Singh Gour Vishwavidyalaya, Sagar (M.P.)
+**Rohit Kumar Malah**\\
+M.Sc. Physics Student\\
+Dr. Hari Singh Gour Vishwavidyalaya, Sagar (M.P.)\\
 GitHub: [@malahrk57](https://github.com/malahrk57)
 
 ---
