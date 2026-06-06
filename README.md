@@ -5,6 +5,8 @@
 ![Web Dashboard](Images/web%201.png)
 ![Mobile Dashboard](Images/Mobile%201.jpeg)
 ![Local Dashboard](Images/local%202.jpeg)
+![Working Prototype](Images/Final%20connections.jpeg)
+![Google Sheet](Images/Sheet%20Updating.png)
 
 ---
 
