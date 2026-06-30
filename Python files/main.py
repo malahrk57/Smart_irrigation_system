@@ -62,9 +62,12 @@ while True:
                     relay.value(0)
                     pump_status = "OFF"
                 else:
-                    if soil_percent >= 70:
-                        relay.value(0)
-                        pump_status = "OFF"
+                     while soil_percent <= 70:
+                        relay.value(1)
+                        soil_value = soil_sensor.read()
+                        soil_percent = ((4095 - soil_value) / 4095) * 100
+                        time.sleep(1)
+                        pump_status = "ON"
             else:
                 relay.value(1)
                 pump_status = "ON"
